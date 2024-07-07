@@ -13,7 +13,7 @@ CR cours sur les systèmes embarqués. Développement sur une carte ARMADEUS (CP
 - Gestion des programmes C entre ARMADEUS et PC Host
 - Make
 
-# TP3 
+## TP3 
 - Génération de l'exe BOA
 - Installation et tests du serveur BOA
 - Mise en oeuvre de scripts CGI
